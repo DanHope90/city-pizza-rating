@@ -1,0 +1,21 @@
+.container{
+
+}
+
+.restaurant-info { 
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.restaurant-name{
+    width: 125px;
+}
+
+.rating {
+    width: 125px;
+}
+
+.submit-btn{
+    width: 100px;
+}
